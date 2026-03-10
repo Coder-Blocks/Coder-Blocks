@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ravi Kumar Sarma G. — aka @coder-blocks
+# 👋 Hi, I'm Ravi Kumar Sarma G. — @coder-blocks
 
 🔬 **AI Researcher | No-Code Developer | Automation Enthusiast**
 
