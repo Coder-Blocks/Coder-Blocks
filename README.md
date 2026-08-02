@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ravi Kumar Sarma G. — @coder-blocks
 
-🔬 **AI Researcher | No-Code Developer | Automation Enthusiast**
+🔬 **AI Automation Engineer | AI Calling Agent Developer | SQL • Power BI • Excel Analytics | Building AI Tools That Save Businesses Time**
 
 💡 I transform complex ideas into real-world innovations using artificial intelligence, no-code platforms, and automation tools. From emotion recognition systems to digital time capsules, I'm on a mission to build smart solutions that uplift people and organizations alike.
 
