@@ -42,10 +42,10 @@ Rather than treating technology and business as separate worlds, I work across b
 
 A date-seeded **Product Genome** combines a real-world domain + interaction mechanism + hard constraint to generate a fresh product direction — with **no paid AI API and no manual edit required**.
 
-[![SEND A REAL WORLD PROBLEM](https://img.shields.io/badge/⚡_SEND_A_REAL_WORLD_PROBLEM-00E5FF?style=for-the-badge&logo=gmail&logoColor=07111f)](mailto:ravigarimella9@gmail.com?subject=TIC%20Idea%20Reactor%20Challenge&body=Name%3A%0AChallenge%20Title%3A%0AProblem%20to%20solve%3A%0AWho%20faces%20it%3A%0APreferred%20platform%20(Web%2FWindows%2FAndroid%2FOffline)%3A%0AHard%20constraint%3A)
+[![SEND A REAL WORLD PROBLEM](https://img.shields.io/badge/⚡_SEND_A_REAL_WORLD_PROBLEM-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://coder-blocks.github.io/ravi-3d-portfolio/twin/#challenge)
 [![VIEW TODAY'S IDEA](https://img.shields.io/badge/VIEW_TODAY'S_IDEA-8B5CF6?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Coder-Blocks/Coder-Blocks/blob/main/DAILY_IDEA.md)
 
-`VISITOR PROBLEM → PUBLIC CHALLENGE → TIC THINKING → POSSIBLE PRODUCT`
+`VISITOR PROBLEM → TWIN CHALLENGE CONSOLE → TIC THINKING → POSSIBLE PRODUCT`
 
 </div>
 
@@ -56,16 +56,18 @@ A date-seeded **Product Genome** combines a real-world domain + interaction mech
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Coder-Blocks/Coder-Blocks/main/assets/tic-digital-twin.svg" width="100%" alt="TIC Digital Twin"/>
+<a href="https://coder-blocks.github.io/ravi-3d-portfolio/twin/"><img src="https://raw.githubusercontent.com/Coder-Blocks/Coder-Blocks/main/assets/tic-digital-twin.svg" width="100%" alt="TIC Digital Twin"/></a>
 
 ### Meet the profile's virtual guide.
 
 The **TIC Digital Twin** is a portal-style profile layer. Instead of sending every visitor into the same path, it routes them by intention.
 
+[![LAUNCH INTERACTIVE TWIN](https://img.shields.io/badge/LAUNCH_INTERACTIVE_TWIN-111827?style=for-the-badge&logo=githubpages&logoColor=00E5FF)](https://coder-blocks.github.io/ravi-3d-portfolio/twin/)
+
 [![01 BUILD](https://img.shields.io/badge/01_BUILD-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://coder-blocks.github.io/ravi-3d-portfolio/)
 [![02 LEARN](https://img.shields.io/badge/02_LEARN-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/course/)
 [![03 HIRE](https://img.shields.io/badge/03_HIRE-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-1633b7244/)
-[![04 CHALLENGE](https://img.shields.io/badge/04_CHALLENGE-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravigarimella9@gmail.com?subject=TIC%20Challenge%20for%20Digital%20Twin&body=Name%3A%0AChallenge%20Title%3A%0AProblem%20to%20solve%3A%0AWho%20faces%20it%3A%0APreferred%20platform%20(Web%2FWindows%2FAndroid%2FOffline)%3A%0AHard%20constraint%3A)
+[![04 CHALLENGE](https://img.shields.io/badge/04_CHALLENGE-EA4335?style=for-the-badge&logo=githubpages&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/twin/#challenge)
 
 </div>
 
@@ -77,7 +79,7 @@ IF YOU WANT TO...
 └─ CHALLENGE  → Send a real-world problem for TIC to think about
 ```
 
-> The Challenge route now uses a direct email-based intake so visitors don't hit a broken 404 page.
+> The Challenge route now opens the interactive Twin console in the browser, with Gmail compose and copy-to-clipboard options.
 
 ---
 
