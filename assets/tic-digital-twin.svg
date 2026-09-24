@@ -60,17 +60,17 @@
     <g transform="translate(520 180)">
       <rect width="290" height="72" rx="18" fill="#081426" stroke="#00e5ff" stroke-opacity="0.35"/>
       <text x="28" y="29" fill="#00e5ff" font-size="13" letter-spacing="3">01 // BUILD</text>
-      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Products, portfolio & execution</text>
+      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Products, portfolio &amp; execution</text>
     </g>
     <g transform="translate(840 180)">
       <rect width="290" height="72" rx="18" fill="#101026" stroke="#8b5cf6" stroke-opacity="0.45"/>
       <text x="28" y="29" fill="#c084fc" font-size="13" letter-spacing="3">02 // LEARN</text>
-      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Courses, skills & growth path</text>
+      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Courses, skills &amp; growth path</text>
     </g>
     <g transform="translate(520 282)">
       <rect width="290" height="72" rx="18" fill="#081426" stroke="#00e5ff" stroke-opacity="0.35"/>
       <text x="28" y="29" fill="#00e5ff" font-size="13" letter-spacing="3">03 // HIRE</text>
-      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Services, collaboration & contact</text>
+      <text x="28" y="53" fill="#fff" font-size="20" font-weight="700">Services, collaboration &amp; contact</text>
     </g>
     <g transform="translate(840 282)">
       <rect width="290" height="72" rx="18" fill="#101026" stroke="#8b5cf6" stroke-opacity="0.45"/>
