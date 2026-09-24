@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#050816"/>
+    <stop offset=".52" stop-color="#0a1225"/>
+    <stop offset="1" stop-color="#02040a"/>
+  </linearGradient>
+  <radialGradient id="core" cx="50%" cy="50%" r="50%">
+    <stop offset="0" stop-color="#e9ffff"/>
+    <stop offset=".16" stop-color="#00e5ff"/>
+    <stop offset=".42" stop-color="#0077ff" stop-opacity=".62"/>
+    <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+  </radialGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="6" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#0fcff0" stroke-opacity=".08" stroke-width="1"/>
+  </pattern>
+</defs>
+<rect width="1200" height="430" rx="28" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="1197" height="427" rx="26.5" fill="none" stroke="#00e5ff" stroke-opacity=".35"/>
+<rect width="1200" height="430" rx="28" fill="url(#grid)"/>
+
+<g opacity=".4">
+  <path d="M80 86H310M890 86h230M80 344h230M890 344h230" stroke="#00e5ff" stroke-width="2"/>
+  <circle cx="80" cy="86" r="4" fill="#00e5ff"/><circle cx="1120" cy="86" r="4" fill="#00e5ff"/>
+  <circle cx="80" cy="344" r="4" fill="#00e5ff"/><circle cx="1120" cy="344" r="4" fill="#00e5ff"/>
+</g>
+
+<g transform="translate(600 214)">
+  <circle r="140" fill="none" stroke="#00e5ff" stroke-opacity=".16" stroke-width="1.5" stroke-dasharray="6 13">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="18s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="112" fill="none" stroke="#7c4dff" stroke-opacity=".45" stroke-width="2" stroke-dasharray="32 10">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="11s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="84" fill="none" stroke="#00e5ff" stroke-opacity=".7" stroke-width="2" stroke-dasharray="4 8">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="66" fill="url(#core)" filter="url(#glow)">
+    <animate attributeName="r" values="58;70;58" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values=".8;1;.8" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="-112" r="7" fill="#00e5ff" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="84" cy="0" r="5" fill="#b388ff" filter="url(#glow)">
+    <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="7s" repeatCount="indefinite"/>
+  </circle>
+</g>
+
+<g font-family="Segoe UI, Arial, sans-serif" fill="#eafcff">
+  <text x="58" y="62" font-size="15" letter-spacing="4" fill="#00e5ff">TIC // INNOVATION OS</text>
+  <text x="58" y="135" font-size="34" font-weight="700">GARIMELLA</text>
+  <text x="58" y="178" font-size="34" font-weight="700">RAVI KUMAR SARMA</text>
+  <text x="58" y="216" font-size="14" letter-spacing="2" fill="#9ad9e6">FOUNDER • BUILDER • PRODUCT CREATOR</text>
+  <text x="58" y="284" font-size="13" fill="#7f9eaa">SYSTEM STATUS</text>
+  <text x="58" y="309" font-size="19" font-weight="700" fill="#5dffb1">● ONLINE / BUILDING</text>
+
+  <text x="930" y="135" font-size="13" text-anchor="middle" fill="#7f9eaa">ACTIVE CORE</text>
+  <text x="930" y="170" font-size="28" text-anchor="middle" font-weight="700" fill="#00e5ff">THINK</text>
+  <text x="930" y="204" font-size="28" text-anchor="middle" font-weight="700">INNOVATIVE</text>
+  <text x="930" y="238" font-size="28" text-anchor="middle" font-weight="700">CREATIONS</text>
+  <text x="930" y="278" font-size="13" text-anchor="middle" letter-spacing="3" fill="#b388ff">IDEA → PRODUCT</text>
+</g>
+
+<g>
+  <rect x="55" y="352" width="300" height="4" rx="2" fill="#0b2940"/>
+  <rect x="55" y="352" width="120" height="4" rx="2" fill="#00e5ff">
+    <animate attributeName="x" values="55;235;55" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="845" y="352" width="300" height="4" rx="2" fill="#1b1740"/>
+  <rect x="845" y="352" width="90" height="4" rx="2" fill="#8d6bff">
+    <animate attributeName="x" values="845;1055;845" dur="4.3s" repeatCount="indefinite"/>
+  </rect>
+</g>
+
+<text x="600" y="401" text-anchor="middle" font-family="Consolas, monospace" font-size="13" letter-spacing="3" fill="#6c8792">BUILD • CREATE • AUTOMATE • DEPLOY • EVOLVE</text>
+</svg>
