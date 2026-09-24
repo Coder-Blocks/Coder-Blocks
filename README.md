@@ -218,6 +218,6 @@ timeline
 
 > **“Innovation becomes valuable when an idea turns into a working product.”**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=BUILD%20%E2%80%A2%20CREATE%20%E2%80%A2%20INNOVATE&fontSize=20&fontColor=00E5FF&color=0:0B1220,100:121D33" width="100%" alt="Footer"/>
+<img src="https://raw.githubusercontent.com/Coder-Blocks/Coder-Blocks/main/assets/water-flow.svg" width="100%" alt="Animated realistic water flow — BUILD • CREATE • INNOVATE"/>
 
 </div>
