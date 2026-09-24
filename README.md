@@ -29,6 +29,26 @@ I build practical digital products from the first idea to a working experience �
 
 Rather than treating technology and business as separate worlds, I work across both: **understand the problem → design the experience → build the product → communicate the value → improve the system**.
 
+
+---
+
+## ⚡ TIC IDEA REACTOR // SELF-EVOLVING PROFILE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Coder-Blocks/Coder-Blocks/main/assets/daily-idea-reactor.svg" width="100%" alt="TIC Daily Idea Reactor"/>
+
+### This panel changes itself every day.
+
+A date-seeded **Product Genome** combines a real-world domain + interaction mechanism + hard constraint to generate a fresh product direction — with **no paid AI API and no manual edit required**.
+
+[![SUBMIT A REAL WORLD PROBLEM](https://img.shields.io/badge/⚡_SUBMIT_A_REAL_WORLD_PROBLEM-00E5FF?style=for-the-badge&logo=github&logoColor=07111f)](https://github.com/Coder-Blocks/Coder-Blocks/issues/new?template=innovation-challenge.yml)
+[![VIEW TODAY'S IDEA](https://img.shields.io/badge/VIEW_TODAY'S_IDEA-8B5CF6?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/Coder-Blocks/Coder-Blocks/blob/main/DAILY_IDEA.md)
+
+`VISITOR PROBLEM → PUBLIC CHALLENGE → TIC THINKING → POSSIBLE PRODUCT`
+
+</div>
+
 ---
 
 ## ◈ TIC BUILD MATRIX
