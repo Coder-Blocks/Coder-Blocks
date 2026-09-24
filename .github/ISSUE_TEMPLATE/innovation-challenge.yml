@@ -1,0 +1,49 @@
+name: "⚡ Submit an Innovation Challenge"
+description: "Give TIC a real-world problem worth turning into a product concept."
+title: "[CHALLENGE] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## TIC Public Invention Queue
+        Don't pitch a solution first. Give us the **problem**.
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem should we solve?
+      description: Describe the real situation, who faces it, and what makes it frustrating.
+      placeholder: "Example: Small local shops lose repeat customers because..."
+    validations:
+      required: true
+  - type: input
+    id: people
+    attributes:
+      label: Who experiences this problem?
+      placeholder: "Students, small businesses, field workers, families..."
+    validations:
+      required: true
+  - type: dropdown
+    id: environment
+    attributes:
+      label: Where should the solution work?
+      options:
+        - Offline / poor internet
+        - Web
+        - Windows desktop
+        - Android mobile
+        - Any environment
+    validations:
+      required: true
+  - type: textarea
+    id: constraint
+    attributes:
+      label: One hard constraint
+      description: A restriction that forces more innovative thinking.
+      placeholder: "No paid API, low-end phone, no login, one-hand use..."
+  - type: checkboxes
+    id: public
+    attributes:
+      label: Public challenge
+      options:
+        - label: I understand this will be posted publicly on GitHub.
+          required: true
