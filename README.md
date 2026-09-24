@@ -11,6 +11,11 @@
 
 ### `FOUNDER // PRODUCT BUILDER // AI-ASSISTED CREATOR // BUSINESS DEVELOPER`
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Coder-Blocks&label=PROFILE+VISITORS&color=00e5ff&style=for-the-badge)
+![GitHub Followers](https://img.shields.io/github/followers/Coder-Blocks?label=FOLLOWERS&style=for-the-badge&color=8B5CF6)
+
 </div>
 
 ---
