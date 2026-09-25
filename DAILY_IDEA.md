@@ -1,19 +1,11 @@
-# ⚡ TIC Daily Idea Reactor
+# TIC Daily Idea Reactor
 
-**Date:** 2026-09-24
+**Date:** 2026-09-25
 
-## FIELD-SYNC LOCAL MARKET COPILOT
+**Concept:** SPARK HOME OS
 
-- **Domain:** Rural Commerce
-- **Mechanism:** Offline-first Copilot
-- **Constraint:** Works with Zero Login
+- Domain: HOME DESIGN
+- Mechanism: OFFLINE-FIRST COPILOT
+- Constraint: USABLE IN UNDER 60 SECONDS
 
-### Challenge
-
-Help local sellers capture orders, stock and follow-ups even with unreliable internet.
-
-### Product direction
-
-A lightweight local-first workspace that can record a sale, update stock, remember a customer follow-up and generate a simple daily summary without forcing the seller through a traditional CRM flow.
-
-> This seed is part of the **TIC Product Genome**. The profile workflow generates a new combination automatically each day.
+**Challenge:** Help families explore space decisions before construction — while the product usable in under 60 seconds.
