@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-09-25
+**Date:** 2026-09-26
 
-**Concept:** SPARK HOME OS
+**Concept:** SPARK RURAL STUDIO
 
-- Domain: HOME DESIGN
-- Mechanism: OFFLINE-FIRST COPILOT
-- Constraint: USABLE IN UNDER 60 SECONDS
+- Domain: RURAL COMMERCE
+- Mechanism: LOCAL AI ASSISTANT
+- Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help families explore space decisions before construction — while the product usable in under 60 seconds.
+**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product local data by default.
