@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-09-26
+**Date:** 2026-09-27
 
-**Concept:** SPARK RURAL STUDIO
+**Concept:** FIELD-SYNC LOCAL OS
 
-- Domain: RURAL COMMERCE
-- Mechanism: LOCAL AI ASSISTANT
+- Domain: LOCAL SERVICES
+- Mechanism: VISUAL DECISION MAP
 - Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product local data by default.
+**Challenge:** Help small service teams manage customers and repeat work — while the product local data by default.
