@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-09-27
+**Date:** 2026-09-28
 
-**Concept:** FIELD-SYNC LOCAL OS
+**Concept:** MOTION HEALTH FLOW
 
-- Domain: LOCAL SERVICES
-- Mechanism: VISUAL DECISION MAP
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: HEALTH WORKFLOWS
+- Mechanism: ZERO-FORM INTERFACE
+- Constraint: MULTILINGUAL FIRST
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product local data by default.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product multilingual first.
