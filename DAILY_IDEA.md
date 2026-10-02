@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-01
+**Date:** 2026-10-02
 
-**Concept:** PULSE CREATOR GRID
+**Concept:** MOTION LOCAL ENGINE
 
-- Domain: CREATOR TOOLS
-- Mechanism: ZERO-FORM INTERFACE
-- Constraint: MULTILINGUAL FIRST
+- Domain: LOCAL SERVICES
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: ONE-HAND OPERATION
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product multilingual first.
+**Challenge:** Help small service teams manage customers and repeat work — while the product one-hand operation.
