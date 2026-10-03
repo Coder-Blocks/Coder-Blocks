@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-02
+**Date:** 2026-10-03
 
-**Concept:** MOTION LOCAL ENGINE
+**Concept:** SPARK CREATOR COPILOT
 
-- Domain: LOCAL SERVICES
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Domain: CREATOR TOOLS
+- Mechanism: OFFLINE-FIRST COPILOT
 - Constraint: ONE-HAND OPERATION
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product one-hand operation.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product one-hand operation.
