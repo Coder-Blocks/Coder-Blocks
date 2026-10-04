@@ -4,9 +4,13 @@
 
 <br/>
 
-[![ENTER THE 3D UNIVERSE](https://img.shields.io/badge/ENTER_THE_3D_UNIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://coder-blocks.github.io/ravi-3d-portfolio/)
+### Garimella Ravi Kumar Sarma — Official Personal Website
+
+[![OFFICIAL WEBSITE](https://img.shields.io/badge/OFFICIAL_WEBSITE-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://garimella-ravi-kumar-sarma.onrender.com/)
+
+[![ENTER THE 3D UNIVERSE](https://img.shields.io/badge/ENTER_THE_3D_UNIVERSE-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://garimella-ravi-kumar-sarma.onrender.com/)
 [![COURSES](https://img.shields.io/badge/TIC_COURSES-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/course/)
-[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-1633b7244/)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumarsarma)
 [![EMAIL](https://img.shields.io/badge/CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravigarimella9@gmail.com)
 
 ### `FOUNDER // PRODUCT BUILDER // AI-ASSISTED CREATOR // BUSINESS DEVELOPER`
@@ -69,9 +73,9 @@ The **TIC Digital Twin** is a portal-style profile layer. Instead of sending eve
 
 [![LAUNCH INTERACTIVE TWIN](https://img.shields.io/badge/LAUNCH_INTERACTIVE_TWIN-111827?style=for-the-badge&logo=githubpages&logoColor=00E5FF)](https://coder-blocks.github.io/ravi-3d-portfolio/twin/)
 
-[![01 BUILD](https://img.shields.io/badge/01_BUILD-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://coder-blocks.github.io/ravi-3d-portfolio/)
+[![01 BUILD](https://img.shields.io/badge/01_BUILD-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://garimella-ravi-kumar-sarma.onrender.com/)
 [![02 LEARN](https://img.shields.io/badge/02_LEARN-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/course/)
-[![03 HIRE](https://img.shields.io/badge/03_HIRE-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-1633b7244/)
+[![03 HIRE](https://img.shields.io/badge/03_HIRE-0EA5E9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumarsarma)
 [![04 CHALLENGE](https://img.shields.io/badge/04_CHALLENGE-EA4335?style=for-the-badge&logo=githubpages&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/twin/#challenge)
 
 </div>
@@ -174,7 +178,7 @@ Inventory, billing/POS, reporting, GST-oriented data and local SQLite workflows 
 
 A motion-heavy personal / business experience that connects portfolio, services, courses and product experiments.
 
-[**→ Launch Experience**](https://coder-blocks.github.io/ravi-3d-portfolio/)
+[**→ Launch Experience**](https://garimella-ravi-kumar-sarma.onrender.com/)
 
 </td>
 </tr>
@@ -282,9 +286,9 @@ timeline
 
 ### Choose what you want to explore next
 
-[![PORTFOLIO](https://img.shields.io/badge/01_PORTFOLIO-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://coder-blocks.github.io/ravi-3d-portfolio/)
+[![PORTFOLIO](https://img.shields.io/badge/01_PORTFOLIO-00E5FF?style=for-the-badge&logo=githubpages&logoColor=07111f)](https://garimella-ravi-kumar-sarma.onrender.com/)
 [![COURSES](https://img.shields.io/badge/02_COURSES-8B5CF6?style=for-the-badge&logo=bookstack&logoColor=white)](https://coder-blocks.github.io/ravi-3d-portfolio/course/)
-[![LINKEDIN](https://img.shields.io/badge/03_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-kumar-1633b7244/)
+[![LINKEDIN](https://img.shields.io/badge/03_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravikumarsarma)
 [![EMAIL](https://img.shields.io/badge/04_CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ravigarimella9@gmail.com)
 
 <br/>
