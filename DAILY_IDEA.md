@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-05
+**Date:** 2026-10-06
 
-**Concept:** BRIDGE CREATOR ENGINE
+**Concept:** NANO HOME LAYER
 
-- Domain: CREATOR TOOLS
-- Mechanism: ZERO-FORM INTERFACE
-- Constraint: NO PAID API REQUIRED
+- Domain: HOME DESIGN
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product no paid api required.
+**Challenge:** Help families explore space decisions before construction — while the product works with zero login.
