@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-07
+**Date:** 2026-10-08
 
-**Concept:** LENS LOCAL OS
+**Concept:** PULSE RURAL FLOW
 
-- Domain: LOCAL SERVICES
-- Mechanism: ZERO-FORM INTERFACE
-- Constraint: RUNS ON LOW-END DEVICES
+- Domain: RURAL COMMERCE
+- Mechanism: VISUAL DECISION MAP
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product runs on low-end devices.
+**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product works with zero login.
