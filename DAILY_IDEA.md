@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-08
+**Date:** 2026-10-09
 
-**Concept:** PULSE RURAL FLOW
+**Concept:** MOTION LOCAL ENGINE
 
-- Domain: RURAL COMMERCE
-- Mechanism: VISUAL DECISION MAP
-- Constraint: WORKS WITH ZERO LOGIN
+- Domain: LOCAL SERVICES
+- Mechanism: ZERO-FORM INTERFACE
+- Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product works with zero login.
+**Challenge:** Help small service teams manage customers and repeat work — while the product no paid api required.
