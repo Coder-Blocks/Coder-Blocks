@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-12
+**Date:** 2026-10-13
 
-**Concept:** BRIDGE LOCAL OS
+**Concept:** NANO EDUCATION COPILOT
 
-- Domain: LOCAL SERVICES
-- Mechanism: VOICE-TO-WORKFLOW ENGINE
+- Domain: EDUCATION
+- Mechanism: VISUAL DECISION MAP
 - Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product no paid api required.
+**Challenge:** Help teachers turn lessons into active student practice — while the product no paid api required.
