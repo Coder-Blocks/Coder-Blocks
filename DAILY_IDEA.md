@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-13
+**Date:** 2026-10-14
 
-**Concept:** NANO EDUCATION COPILOT
+**Concept:** LENS RURAL FLOW
 
-- Domain: EDUCATION
-- Mechanism: VISUAL DECISION MAP
+- Domain: RURAL COMMERCE
+- Mechanism: ZERO-FORM INTERFACE
 - Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help teachers turn lessons into active student practice — while the product no paid api required.
+**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product no paid api required.
