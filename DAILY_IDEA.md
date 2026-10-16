@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-15
+**Date:** 2026-10-16
 
-**Concept:** SPARK ACCESSIBILITY FLOW
+**Concept:** SPARK HEALTH FLOW
 
-- Domain: ACCESSIBILITY
-- Mechanism: OFFLINE-FIRST COPILOT
-- Constraint: MULTILINGUAL FIRST
+- Domain: HEALTH WORKFLOWS
+- Mechanism: LOCAL AI ASSISTANT
+- Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help people complete digital tasks with less typing and complexity — while the product multilingual first.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product local data by default.
