@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-16
+**Date:** 2026-10-17
 
-**Concept:** SPARK HEALTH FLOW
+**Concept:** MOTION EDUCATION ENGINE
 
-- Domain: HEALTH WORKFLOWS
-- Mechanism: LOCAL AI ASSISTANT
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: EDUCATION
+- Mechanism: OFFLINE-FIRST COPILOT
+- Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product local data by default.
+**Challenge:** Help teachers turn lessons into active student practice — while the product no paid api required.
