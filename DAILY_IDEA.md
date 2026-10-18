@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-17
+**Date:** 2026-10-18
 
-**Concept:** MOTION EDUCATION ENGINE
+**Concept:** LENS SAFETY LAYER
 
-- Domain: EDUCATION
-- Mechanism: OFFLINE-FIRST COPILOT
-- Constraint: NO PAID API REQUIRED
+- Domain: SAFETY OPERATIONS
+- Mechanism: ADAPTIVE CHECKLIST SYSTEM
+- Constraint: WORKS DURING POOR INTERNET
 
-**Challenge:** Help teachers turn lessons into active student practice — while the product no paid api required.
+**Challenge:** Help teams capture field observations before they are forgotten — while the product works during poor internet.
