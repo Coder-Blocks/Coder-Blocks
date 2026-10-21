@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-20
+**Date:** 2026-10-21
 
-**Concept:** NANO SAFETY LAYER
+**Concept:** MOTION CREATOR OS
 
-- Domain: SAFETY OPERATIONS
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
-- Constraint: RUNS ON LOW-END DEVICES
+- Domain: CREATOR TOOLS
+- Mechanism: VISUAL DECISION MAP
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help teams capture field observations before they are forgotten — while the product runs on low-end devices.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product works with zero login.
