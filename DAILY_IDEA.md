@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-21
+**Date:** 2026-10-22
 
-**Concept:** MOTION CREATOR OS
+**Concept:** LENS EDUCATION OS
 
-- Domain: CREATOR TOOLS
-- Mechanism: VISUAL DECISION MAP
-- Constraint: WORKS WITH ZERO LOGIN
+- Domain: EDUCATION
+- Mechanism: MICRO-AUTOMATION LAYER
+- Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product works with zero login.
+**Challenge:** Help teachers turn lessons into active student practice — while the product local data by default.
