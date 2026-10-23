@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-22
+**Date:** 2026-10-23
 
-**Concept:** LENS EDUCATION OS
+**Concept:** BRIDGE HOME ENGINE
 
-- Domain: EDUCATION
-- Mechanism: MICRO-AUTOMATION LAYER
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: HOME DESIGN
+- Mechanism: VISUAL DECISION MAP
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help teachers turn lessons into active student practice — while the product local data by default.
+**Challenge:** Help families explore space decisions before construction — while the product works with zero login.
