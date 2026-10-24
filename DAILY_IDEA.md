@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-23
+**Date:** 2026-10-24
 
-**Concept:** BRIDGE HOME ENGINE
+**Concept:** LENS HEALTH COPILOT
 
-- Domain: HOME DESIGN
-- Mechanism: VISUAL DECISION MAP
-- Constraint: WORKS WITH ZERO LOGIN
+- Domain: HEALTH WORKFLOWS
+- Mechanism: OFFLINE-FIRST COPILOT
+- Constraint: USABLE IN UNDER 60 SECONDS
 
-**Challenge:** Help families explore space decisions before construction — while the product works with zero login.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product usable in under 60 seconds.
