@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-24
+**Date:** 2026-10-25
 
-**Concept:** LENS HEALTH COPILOT
+**Concept:** PULSE EDUCATION ENGINE
 
-- Domain: HEALTH WORKFLOWS
-- Mechanism: OFFLINE-FIRST COPILOT
-- Constraint: USABLE IN UNDER 60 SECONDS
+- Domain: EDUCATION
+- Mechanism: LOCAL AI ASSISTANT
+- Constraint: RUNS ON LOW-END DEVICES
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product usable in under 60 seconds.
+**Challenge:** Help teachers turn lessons into active student practice — while the product runs on low-end devices.
