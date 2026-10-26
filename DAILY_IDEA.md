@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-25
+**Date:** 2026-10-26
 
-**Concept:** PULSE EDUCATION ENGINE
+**Concept:** BRIDGE ACCESSIBILITY ENGINE
 
-- Domain: EDUCATION
-- Mechanism: LOCAL AI ASSISTANT
-- Constraint: RUNS ON LOW-END DEVICES
+- Domain: ACCESSIBILITY
+- Mechanism: ADAPTIVE CHECKLIST SYSTEM
+- Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help teachers turn lessons into active student practice — while the product runs on low-end devices.
+**Challenge:** Help people complete digital tasks with less typing and complexity — while the product local data by default.
