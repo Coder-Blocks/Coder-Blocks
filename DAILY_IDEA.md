@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-27
+**Date:** 2026-10-28
 
-**Concept:** PULSE SAFETY COPILOT
+**Concept:** SPARK HOME COPILOT
 
-- Domain: SAFETY OPERATIONS
-- Mechanism: LOCAL AI ASSISTANT
-- Constraint: USABLE IN UNDER 60 SECONDS
+- Domain: HOME DESIGN
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: WORKS DURING POOR INTERNET
 
-**Challenge:** Help teams capture field observations before they are forgotten — while the product usable in under 60 seconds.
+**Challenge:** Help families explore space decisions before construction — while the product works during poor internet.
