@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-28
+**Date:** 2026-10-29
 
-**Concept:** SPARK HOME COPILOT
+**Concept:** SPARK CREATOR STUDIO
 
-- Domain: HOME DESIGN
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
-- Constraint: WORKS DURING POOR INTERNET
+- Domain: CREATOR TOOLS
+- Mechanism: VOICE-TO-WORKFLOW ENGINE
+- Constraint: ONE-HAND OPERATION
 
-**Challenge:** Help families explore space decisions before construction — while the product works during poor internet.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product one-hand operation.
