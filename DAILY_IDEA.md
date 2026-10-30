@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-29
+**Date:** 2026-10-30
 
-**Concept:** SPARK CREATOR STUDIO
+**Concept:** LOCAL LOCAL GRID
 
-- Domain: CREATOR TOOLS
+- Domain: LOCAL SERVICES
 - Mechanism: VOICE-TO-WORKFLOW ENGINE
-- Constraint: ONE-HAND OPERATION
+- Constraint: WORKS DURING POOR INTERNET
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product one-hand operation.
+**Challenge:** Help small service teams manage customers and repeat work — while the product works during poor internet.
