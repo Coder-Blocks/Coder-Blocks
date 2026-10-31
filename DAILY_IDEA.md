@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-10-30
+**Date:** 2026-10-31
 
-**Concept:** LOCAL LOCAL GRID
+**Concept:** MOTION ACCESSIBILITY OS
 
-- Domain: LOCAL SERVICES
-- Mechanism: VOICE-TO-WORKFLOW ENGINE
+- Domain: ACCESSIBILITY
+- Mechanism: ADAPTIVE CHECKLIST SYSTEM
 - Constraint: WORKS DURING POOR INTERNET
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product works during poor internet.
+**Challenge:** Help people complete digital tasks with less typing and complexity — while the product works during poor internet.
