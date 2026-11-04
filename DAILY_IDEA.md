@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-03
+**Date:** 2026-11-04
 
-**Concept:** NANO CREATOR COPILOT
+**Concept:** SPARK CREATOR LAYER
 
 - Domain: CREATOR TOOLS
-- Mechanism: MICRO-AUTOMATION LAYER
-- Constraint: RUNS ON LOW-END DEVICES
+- Mechanism: VISUAL DECISION MAP
+- Constraint: MULTILINGUAL FIRST
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product runs on low-end devices.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product multilingual first.
