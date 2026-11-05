@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-04
+**Date:** 2026-11-05
 
-**Concept:** SPARK CREATOR LAYER
+**Concept:** FIELD-SYNC ACCESSIBILITY LOOP
 
-- Domain: CREATOR TOOLS
-- Mechanism: VISUAL DECISION MAP
-- Constraint: MULTILINGUAL FIRST
+- Domain: ACCESSIBILITY
+- Mechanism: VOICE-TO-WORKFLOW ENGINE
+- Constraint: USABLE IN UNDER 60 SECONDS
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product multilingual first.
+**Challenge:** Help people complete digital tasks with less typing and complexity — while the product usable in under 60 seconds.
