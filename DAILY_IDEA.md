@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-09
+**Date:** 2026-11-10
 
-**Concept:** SPARK ACCESSIBILITY FLOW
+**Concept:** LOCAL HOME OS
 
-- Domain: ACCESSIBILITY
-- Mechanism: MICRO-AUTOMATION LAYER
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: HOME DESIGN
+- Mechanism: VISUAL DECISION MAP
+- Constraint: RUNS ON LOW-END DEVICES
 
-**Challenge:** Help people complete digital tasks with less typing and complexity — while the product local data by default.
+**Challenge:** Help families explore space decisions before construction — while the product runs on low-end devices.
