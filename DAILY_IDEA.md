@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-10
+**Date:** 2026-11-11
 
-**Concept:** LOCAL HOME OS
+**Concept:** MOTION CREATOR LOOP
 
-- Domain: HOME DESIGN
-- Mechanism: VISUAL DECISION MAP
-- Constraint: RUNS ON LOW-END DEVICES
+- Domain: CREATOR TOOLS
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help families explore space decisions before construction — while the product runs on low-end devices.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product works with zero login.
