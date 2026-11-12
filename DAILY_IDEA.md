@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-11
+**Date:** 2026-11-12
 
-**Concept:** MOTION CREATOR LOOP
+**Concept:** FIELD-SYNC HEALTH STUDIO
 
-- Domain: CREATOR TOOLS
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Domain: HEALTH WORKFLOWS
+- Mechanism: ZERO-FORM INTERFACE
 - Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product works with zero login.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product works with zero login.
