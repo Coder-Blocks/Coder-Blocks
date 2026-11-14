@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-13
+**Date:** 2026-11-14
 
-**Concept:** BRIDGE ACCESSIBILITY LAYER
+**Concept:** NANO LOCAL STUDIO
 
-- Domain: ACCESSIBILITY
-- Mechanism: VOICE-TO-WORKFLOW ENGINE
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: LOCAL SERVICES
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: ONE-HAND OPERATION
 
-**Challenge:** Help people complete digital tasks with less typing and complexity — while the product local data by default.
+**Challenge:** Help small service teams manage customers and repeat work — while the product one-hand operation.
