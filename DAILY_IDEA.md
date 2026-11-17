@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-16
+**Date:** 2026-11-17
 
-**Concept:** BRIDGE EDUCATION OS
+**Concept:** SPARK HEALTH LAYER
 
-- Domain: EDUCATION
-- Mechanism: LOCAL AI ASSISTANT
+- Domain: HEALTH WORKFLOWS
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
 - Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help teachers turn lessons into active student practice — while the product no paid api required.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product no paid api required.
