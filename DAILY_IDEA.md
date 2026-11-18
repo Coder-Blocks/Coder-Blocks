@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-17
+**Date:** 2026-11-18
 
-**Concept:** SPARK HEALTH LAYER
+**Concept:** FIELD-SYNC CREATOR OS
 
-- Domain: HEALTH WORKFLOWS
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
-- Constraint: NO PAID API REQUIRED
+- Domain: CREATOR TOOLS
+- Mechanism: LOCAL AI ASSISTANT
+- Constraint: USABLE IN UNDER 60 SECONDS
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product no paid api required.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product usable in under 60 seconds.
