@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-18
+**Date:** 2026-11-19
 
-**Concept:** FIELD-SYNC CREATOR OS
+**Concept:** BRIDGE LOCAL STUDIO
 
-- Domain: CREATOR TOOLS
-- Mechanism: LOCAL AI ASSISTANT
-- Constraint: USABLE IN UNDER 60 SECONDS
+- Domain: LOCAL SERVICES
+- Mechanism: MICRO-AUTOMATION LAYER
+- Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product usable in under 60 seconds.
+**Challenge:** Help small service teams manage customers and repeat work — while the product no paid api required.
