@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-19
+**Date:** 2026-11-20
 
-**Concept:** BRIDGE LOCAL STUDIO
+**Concept:** LENS HOME ENGINE
 
-- Domain: LOCAL SERVICES
-- Mechanism: MICRO-AUTOMATION LAYER
-- Constraint: NO PAID API REQUIRED
+- Domain: HOME DESIGN
+- Mechanism: VISUAL DECISION MAP
+- Constraint: WORKS DURING POOR INTERNET
 
-**Challenge:** Help small service teams manage customers and repeat work — while the product no paid api required.
+**Challenge:** Help families explore space decisions before construction — while the product works during poor internet.
