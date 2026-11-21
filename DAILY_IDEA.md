@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-20
+**Date:** 2026-11-21
 
-**Concept:** LENS HOME ENGINE
+**Concept:** FIELD-SYNC HEALTH OS
 
-- Domain: HOME DESIGN
-- Mechanism: VISUAL DECISION MAP
-- Constraint: WORKS DURING POOR INTERNET
+- Domain: HEALTH WORKFLOWS
+- Mechanism: LOCAL AI ASSISTANT
+- Constraint: LOCAL DATA BY DEFAULT
 
-**Challenge:** Help families explore space decisions before construction — while the product works during poor internet.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product local data by default.
