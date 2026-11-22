@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-21
+**Date:** 2026-11-22
 
-**Concept:** FIELD-SYNC HEALTH OS
+**Concept:** PULSE RURAL LAYER
 
-- Domain: HEALTH WORKFLOWS
-- Mechanism: LOCAL AI ASSISTANT
-- Constraint: LOCAL DATA BY DEFAULT
+- Domain: RURAL COMMERCE
+- Mechanism: MICRO-AUTOMATION LAYER
+- Constraint: ONE-HAND OPERATION
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product local data by default.
+**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product one-hand operation.
