@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-22
+**Date:** 2026-11-23
 
-**Concept:** PULSE RURAL LAYER
+**Concept:** SPARK HEALTH LAYER
 
-- Domain: RURAL COMMERCE
-- Mechanism: MICRO-AUTOMATION LAYER
-- Constraint: ONE-HAND OPERATION
+- Domain: HEALTH WORKFLOWS
+- Mechanism: CAMERA-TO-ACTION WORKFLOW
+- Constraint: WORKS WITH ZERO LOGIN
 
-**Challenge:** Help local sellers capture orders, stock and follow-ups — while the product one-hand operation.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product works with zero login.
