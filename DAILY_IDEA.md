@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-23
+**Date:** 2026-11-24
 
-**Concept:** SPARK HEALTH LAYER
+**Concept:** SPARK HEALTH COPILOT
 
 - Domain: HEALTH WORKFLOWS
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
-- Constraint: WORKS WITH ZERO LOGIN
+- Mechanism: ADAPTIVE CHECKLIST SYSTEM
+- Constraint: MULTILINGUAL FIRST
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product works with zero login.
+**Challenge:** Help small clinics reduce repetitive coordination work — while the product multilingual first.
