@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-24
+**Date:** 2026-11-25
 
-**Concept:** SPARK HEALTH COPILOT
+**Concept:** PULSE SAFETY LAYER
 
-- Domain: HEALTH WORKFLOWS
+- Domain: SAFETY OPERATIONS
 - Mechanism: ADAPTIVE CHECKLIST SYSTEM
-- Constraint: MULTILINGUAL FIRST
+- Constraint: NO PAID API REQUIRED
 
-**Challenge:** Help small clinics reduce repetitive coordination work — while the product multilingual first.
+**Challenge:** Help teams capture field observations before they are forgotten — while the product no paid api required.
