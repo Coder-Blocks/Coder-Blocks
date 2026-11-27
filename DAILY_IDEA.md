@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-26
+**Date:** 2026-11-27
 
-**Concept:** NANO CREATOR COPILOT
+**Concept:** NANO HOME COPILOT
 
-- Domain: CREATOR TOOLS
-- Mechanism: CAMERA-TO-ACTION WORKFLOW
-- Constraint: USABLE IN UNDER 60 SECONDS
+- Domain: HOME DESIGN
+- Mechanism: ADAPTIVE CHECKLIST SYSTEM
+- Constraint: MULTILINGUAL FIRST
 
-**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product usable in under 60 seconds.
+**Challenge:** Help families explore space decisions before construction — while the product multilingual first.
