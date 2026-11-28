@@ -1,11 +1,11 @@
 # TIC Daily Idea Reactor
 
-**Date:** 2026-11-27
+**Date:** 2026-11-28
 
-**Concept:** NANO HOME COPILOT
+**Concept:** SPARK CREATOR FLOW
 
-- Domain: HOME DESIGN
-- Mechanism: ADAPTIVE CHECKLIST SYSTEM
-- Constraint: MULTILINGUAL FIRST
+- Domain: CREATOR TOOLS
+- Mechanism: VOICE-TO-WORKFLOW ENGINE
+- Constraint: RUNS ON LOW-END DEVICES
 
-**Challenge:** Help families explore space decisions before construction — while the product multilingual first.
+**Challenge:** Help creators repurpose one idea into multiple useful formats — while the product runs on low-end devices.
